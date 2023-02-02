@@ -1,6 +1,6 @@
 {
-    "description": "PowerShell Universal Landing Page",
-    "name": "A dashboard that automatically generates a landing page based on the dashboards defined in your environment.",
-    "version": "1.0.1",
+    "name": "PowerShell Universal Landing Page",
+    "description": "A dashboard that automatically generates a landing page based on the dashboards defined in your environment.",
+    "version": "1.0.2",
     "variables": []
 }
