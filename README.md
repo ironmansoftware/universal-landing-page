@@ -6,4 +6,4 @@ A dashboard that automatically generates a landing page based on the dashboards 
 
 ## Usage
 
-Change the Base URL of the Landing Page dashboard to `/` set it as the default route.
+Change the Base URL of the Landing Page dashboard to `/` to set it as the default route.
