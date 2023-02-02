@@ -1,6 +1,6 @@
 {
-    "description": "This template was generated with the PowerShell Universal Template repository.",
+    "description": "PowerShell Universal Landing Page",
     "name": "A dashboard that automatically generates a landing page based on the dashboards defined in your environment.",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "variables": []
 }
