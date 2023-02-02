@@ -1,0 +1,1 @@
+New-PSUDashboard -Name "Landing Page" -FilePath "dashboards\Landing Page\Landing Page.ps1" -BaseUrl "/landing-page" -AutoDeploy -Description "Landing page for dashboards."
